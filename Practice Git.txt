@@ -1,0 +1,7 @@
+How to track with Git Bash
+-Create a folder
+-Open Git Bash
+-Type pwd
+-cd Desktop
+-cd "Name of your folder"
+-cd.. will take you back
