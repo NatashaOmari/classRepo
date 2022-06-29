@@ -5,3 +5,14 @@ How to track with Git Bash
 -cd Desktop
 -cd "Name of your folder"
 -cd.. will take you back
+
+I am learning how to use Git
+
+Stages
+working area
+staging area
+repository
+
+Git status shows you whatever has not yet been commited
+Git log shows you all the commits you have done
+git log --author="developer's name" --->This will show you the commits of other developers
