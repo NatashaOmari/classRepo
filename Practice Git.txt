@@ -16,3 +16,6 @@ repository
 Git status shows you whatever has not yet been commited
 Git log shows you all the commits you have done
 git log --author="developer's name" --->This will show you the commits of other developers
+
+*making changes to the file
+*we are learning git diff
